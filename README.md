@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there !!! 👋 This is Mark
 
-<!--
-**Bigwaven9/Bigwaven9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am Mark ?
 
-Here are some ideas to get you started:
+Mark, Jiahui Lin, a driven and enthusiastic Freshman born in China 🇨🇳, is pursuing a Bachelor's degree in CS&Math🎓 at the University of Illinois at Urbana-Champaign. He is curious adventurous one who loves any novel ideas and experiences (New interest: Aerial Robotics ✈️).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based on Illinois 🌽.
+- 💻 I'm currently working on software in a team to build a fancy APP.
+- 🌱 I’m currently learning [Golang](https://go.dev/).
+- 💬 Ask me about how to live a comfortable life.
+- ⚡ Fun fact: I studied piano 🎹 for 12 years, but now I only play guitar 🎸.
+
+
+## 🚀 Languages and Tools
+
+C++, Java, Golang, Python, Javascript, HTML5&CSS3, Django, Docker, Redis, Thrift, WebSockets, and more!
+
+## 📚 My LeetCode Stats:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Bigwaven_?ext=contest&border=0&radius=30)
+
+![alt text](/images/github-contribution-grid-snake.svg "Snake")
