@@ -2,11 +2,11 @@
 
 ## Who am Mark ?
 
-[Mark](https://bigwaven9.github.io/){: class="no-underline" }, Jiahui Lin, a driven and enthusiastic Freshman born in China 🇨🇳, is pursuing a Bachelor's degree in CS&Math🎓 at the University of Illinois at Urbana-Champaign. He is curious adventurous one who loves any novel ideas and experiences (New interest: Aerial Robotics ✈️).
+[Mark](https://bigwaven9.github.io/), Jiahui Lin, a driven and enthusiastic Freshman born in China 🇨🇳, is pursuing a Bachelor's degree in CS&Math🎓 at the University of Illinois at Urbana-Champaign. He is curious adventurous one who loves any novel ideas and experiences (New interest: Aerial Robotics ✈️).
 
 - 🌍 I'm based on Illinois 🌽.
 - 💻 I'm currently working on software in a team to build a fancy APP.
-- 🌱 I’m currently learning [Golang](https://go.dev/){: class="no-underline" }.
+- 🌱 I’m currently learning [Golang](https://go.dev/).
 - 💬 Ask me about how to live a comfortable life.
 - ⚡ Fun fact: I studied piano 🎹 for 12 years, but now I only play guitar 🎸.
 
