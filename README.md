@@ -13,7 +13,7 @@
 
 ## 🚀 Languages and Tools
 
-C/C++, Java, Golang, Python, Javascript, HTML5&CSS3, Django, Docker, Redis, Thrift, WebSockets, MySQL, and more !
+C/C++, Rust, Golang, Python, Java, Javascript, HTML5&CSS3, Django, Docker, Redis, Thrift, WebSockets, MySQL, and more !
 
 ## 📚 My LeetCode Stats:
 
