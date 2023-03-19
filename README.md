@@ -8,7 +8,7 @@
 - 💻 I'm currently working on software in a team to build a fancy APP.
 - 🌱 I’m currently learning [Golang](https://go.dev/).
 - 💬 Ask me about how to live a comfortable life.
-- ⚡ Fun fact: I studied piano 🎹 for 12 years, but now I only play guitar 🎸.
+- ⚡ Fun fact: I studied piano 🎹 for 12 years, but now I can only play guitar 🎸.
 
 
 ## 🚀 Languages and Tools
