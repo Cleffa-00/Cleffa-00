@@ -14,9 +14,9 @@
 ## 🚀 Languages and Tools
 
 C/C++, Rust, Golang, Python, Java, Javascript, HTML5&CSS3, Django, Docker, Redis, Thrift, WebSockets, MySQL, and more !
-
+<!-- 
 ## 📚 My LeetCode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Bigwaven_?ext=contest&border=0&radius=30)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Bigwaven_?ext=contest&border=0&radius=30) -->
 
 ![alt text](/images/github-contribution-grid-snake.svg "Snake")
